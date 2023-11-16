@@ -26,7 +26,7 @@ interests:
     'Game Development',
     'DevOps',
 },
-currently_learning:[`Object Operational Mapping`],
+currently_learning:[`Object Relational Mapping`],
 2023 Goals: [`create 20+ projects and learn 5 new technologies`],
 hobbies: [`gaming`, `hiking`, `reading`, `creating`],
 ```

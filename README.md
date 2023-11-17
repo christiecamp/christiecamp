@@ -19,28 +19,28 @@
 ### ![about-me](./gremlicious/1.png)
 
 ```javascript
-name: Christine Campbell
-located_in: Richmond, VA
-education:
-{
-    `B.F.A in Photography & Film`,
-    `Full-Stack Web Development Bootcamp`,
-},
-interests:
-[
-    'Graphic Design',
-    'Marketing',
-    'Web Development',
-    'UI/UX',
-    'Game Development',
-    'DevOps',
-],
-hobbies: [`gaming`, `hiking`, `reading`, `creating`],
-
-learning: [`Model-View Controller`],
-current_project: [`TBD - ORM application`],
-recent_project: [`WEREWOLF WEED Employee Database`],
-2023 Goals: [`create 20+ projects and learn 5 new technologies`],
+const christiecamp = {
+     location: Richmond, VA,
+     education: 
+      [
+        'B.F.A in Photography & Film',
+        'Full-Stack Web Development Bootcamp',
+      ],
+     interests: 
+      [
+        'Graphic Design', 
+        'Marketing', 
+        'Web Development', 
+        'UI/UX', 
+        'Game Development', 
+        'DevOps',
+      ],
+    hobbies: ['gaming', 'hiking', 'reading', 'creating'],
+    learning: ['Model-View Controller'],
+    current_project: [`Starry Cellar  - ORM application`],
+    recent_project: [`WEREWOLF WEED Employee Database`],
+    2023 Goals: [`create 20+ projects and learn 5 new technologies`],
+};
 ```
 
 #

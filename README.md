@@ -26,9 +26,12 @@ interests:
     'Game Development',
     'DevOps',
 },
-currently_learning:[`Object Relational Mapping`],
-2023 Goals: [`create 20+ projects and learn 5 new technologies`],
 hobbies: [`gaming`, `hiking`, `reading`, `creating`],
+
+learning: [`Model-View Controller`],
+current_project: [`TBD - ORM application`],
+recent_project: [`WEREWOLF WEED Employee Database`],
+2023 Goals: [`create 20+ projects and learn 5 new technologies`],
 ```
 
 #
@@ -38,6 +41,7 @@ hobbies: [`gaming`, `hiking`, `reading`, `creating`],
 
 
 [![christie's gitHub stats](https://github-readme-stats.vercel.app/api?username=christiecamp&theme=synthwave)](https://github.com/christiecamp)
+
 ![christie's languages](https://github-readme-stats.vercel.app/api/top-langs?username=christiecamp&show_icons=true&locale=en&layout=compact&theme=synthwave)
 
 

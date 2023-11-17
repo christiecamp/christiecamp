@@ -1,4 +1,4 @@
-![banner](./branding/header.png)
+![banner](./gremlicious/header.png)
 
 [![Linkedin Badge](https://img.shields.io/badge/-hotpink?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christiecamphoto/)](https://www.linkedin.com/in/christiecamphoto/)
 [![Website Badge](https://img.shields.io/badge/-purple?style=flat&logo=Google-Chrome&logoColor=white&link=https://christiecamp.com)](https://christiecamp.com)
@@ -7,7 +7,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hello+there;welcome+gremlins)
 
 #
-### ![about-me](./branding/1.png)
+
+### ![about-me](./gremlicious/1.png)
 
 ```javascript
 name: Christine Campbell
@@ -36,9 +37,7 @@ recent_project: [`WEREWOLF WEED Employee Database`],
 
 #
 
-### ![my-stats](./branding/2.png)
-
-
+### ![my-stats](./gremlicious/2.png)
 
 [![christie's gitHub stats](https://github-readme-stats.vercel.app/api?username=christiecamp&theme=synthwave)](https://github.com/christiecamp)
 
@@ -49,7 +48,11 @@ recent_project: [`WEREWOLF WEED Employee Database`],
 
 #
 
+<p align="center">
+  <img alt="views" src="https://komarev.com/ghpvc/?username=christiecamp&style=flat-square&color=blueviolet" >
+</p>
 
 <p align="center">
-<a href="https://www.christiecamp.com"><img height= 250px src ="./branding/logo.png"></a>
+<a href="https://www.christiecamp.com"><img height= 250px src ="./gremlicious/logo.png"></a>
 </p>
+

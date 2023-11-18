@@ -4,8 +4,9 @@
   <img alt="views" src="https://komarev.com/ghpvc/?username=christiecamp&style=flat-square&color=blueviolet" >
 </p>
 
-![typing-svg](https://readme-typing-svg.demolab.com/?lines=hello+there;welcome+gremlins)
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=hello+there;welcome+gremlins&center=true">
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christiecamphoto/"><img width="32px" alt="linkedin" title="linkedin" src="./gremlicious/linkedin.png"/></a>

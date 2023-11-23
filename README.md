@@ -1,19 +1,24 @@
 ![banner](./gremlicious/header.png)
 
 <p align="right">
+  <img alt="mode" src="https://img.shields.io/badge/view-darkmode-black.svg?&logo=Github&logoColor=white" >
+</p> 
+
+<p align="right">
   <img alt="views" src="https://komarev.com/ghpvc/?username=christiecamp&style=flat-square&color=blueviolet" >
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=hello+there;welcome+gremlins&center=true">
+  <img src="https://readme-typing-svg.demolab.com/?lines=hello+there+:);welcome+gremlins&center=true">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/christiecamphoto/"><img width="32px" alt="linkedin" title="linkedin" src="./gremlicious/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/christiecamphoto/"><img width="35px" alt="linkedin" title="linkedin" src="./gremlicious/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/christiecamp"><img width="32px" alt="dev.to" title="christiecamp dev.to" src="./gremlicious/dev.png"></a>
+  <a href="https://dev.to/christiecamp"><img width="35px" alt="dev.to" title="christiecamp dev.to" src="./gremlicious/dev.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/christiecamp"><img width="32px" alt="ko-fi" title="buy me a coffee" src="./gremlicious/kofi.png"/></a>
+  <a href="https://ko-fi.com/christiecamp"><img width="35px" alt="ko-fi" title="buy me a coffee" src="./gremlicious/kofi.png"/></a>
 
 #
 
@@ -38,8 +43,8 @@ const christiecamp = {
       ],
     hobbies: ['gaming', 'hiking', 'reading', 'creating'],
     learning: ['Model-View Controller'],
-    current_project: [`Starry Cellar  - ORM application`],
-    recent_project: [`WEREWOLF WEED Employee Database`],
+    current_project: [`ALIEN PRONE - MVC app`],
+    recent_project: [`STARRY CELLAR STUFF - Express/Sequelize app`],
     2023 Goals: [`create 20+ projects and learn 5 new technologies`],
 };
 ```

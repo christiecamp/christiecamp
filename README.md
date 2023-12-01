@@ -43,8 +43,8 @@ const christiecamp = {
       ],
     hobbies: ['gaming', 'hiking', 'reading', 'creating'],
     learning: ['Model-View Controller'],
-    current_project: [`ALIEN PRONE - MVC app`],
-    recent_project: [`STARRY CELLAR STUFF - Express/Sequelize app`],
+    current_project: [`STROKE OF LUCK - CYOA game`],
+    recent_project: [`ALIEN PRONE BLOG app`],
     2023 Goals: [`create 20+ projects and learn 5 new technologies`],
 };
 ```
@@ -53,7 +53,7 @@ const christiecamp = {
 
 ### ![my-stats](./gremlicious/2.png)
 
-[![gitHub stats](https://github-readme-stats.vercel.app/api?username=christiecamp&theme=synthwave)](https://github.com/christiecamp)
+![gitHub stats](https://github-readme-stats.vercel.app/api?username=christiecamp&show_icons=true&theme=synthwave) 
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs?username=christiecamp&show_icons=true&locale=en&layout=compact&theme=synthwave)
 

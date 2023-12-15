@@ -84,41 +84,43 @@ const christiecamp = {
 
 ##### LANGUAGES  ✍️
 
-<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
-<img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
-<img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white">
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+![html](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
+![markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
+![node.js](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
+![sql](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
+![svgxml](https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white)
+![typescript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
+
 
 <!-- frameworks -->
 
 ##### FRAMEWORKS 🧮
 
-<img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-
+![bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)
+![express.js](https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white)
+![react](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB)
 
 <!-- databases -->
 
 ##### DATABASES 📈
 
-<img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
-<img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
-<img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white">
+![github pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white)
+![heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)
+![render](https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white)
+
 
 <!-- software -->
 
 ##### SOFTWARE 💾
 
-<img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white">
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-<img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white">
+![adobe](https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white)
+![visual studio code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+![discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white)
+
 
 #
 

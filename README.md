@@ -22,7 +22,7 @@
 
 #
 
-### ![about-me](./gremlicious/1.png)
+### ![about](./gremlicious/1.png)
 
 ```javascript
 const christiecamp = {
@@ -42,54 +42,83 @@ const christiecamp = {
         'DevOps',
       ],
     hobbies: ['gaming', 'hiking', 'reading', 'creating'],
-    learning: ['Model-View Controller'],
-    current_project: [`STROKE OF LUCK - CYOA game`],
-    recent_project: [`ALIEN PRONE BLOG app`],
+    learning: ['MongoDB'],
+    current_project: [`AUTOPSY FILES - REGEX Gist`],
+    recent_project: [`STROKE OF LUCK - CYOA game`],
     2023 Goals: [`create 20+ projects and learn 5 new technologies`],
 };
 ```
 
 #
 
-### ![my-stats](./gremlicious/2.png)
+### ![stats](./gremlicious/2.png)
+
+##### STREAK STATS 🤖
+
+![gitHub streak](https://streak-stats.demolab.com/?user=christiecamp&theme=synthwave)
+
+##### PROFILE STATS 👤
 
 ![gitHub stats](https://github-readme-stats.vercel.app/api?username=christiecamp&show_icons=true&theme=synthwave) 
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs?username=christiecamp&show_icons=true&locale=en&layout=compact&theme=synthwave)
 
+##### CONTRIBUTION STATS 👥
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=christiecamp&theme=synthwave)
 
+#
+#
+<br>
+
+![banner](./gremlicious/attack.png)
+
+<br>
 <!-- ![Snake animation](https://github.com/christiecamp/christiecamp/blob/output/github-contribution-grid-snake.svg) -->
 
+#
 #
 
 ### ![tools](./gremlicious/3.png)
 
 <!-- languages -->
 
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
- <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
+##### LANGUAGES  ✍️
+
+<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+<img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+<img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
 
 <!-- frameworks -->
 
-<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+##### FRAMEWORKS 🧮
+
+<img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
 
 
 <!-- databases -->
 
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+##### DATABASES 📈
+
+<img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
+<img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
+<img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white">
 
 <!-- software -->
 
-<a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
- <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
- <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+##### SOFTWARE 💾
+
+<img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white">
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+<img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white">
 
 #
 

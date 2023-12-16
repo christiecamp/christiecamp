@@ -43,8 +43,8 @@ const christiecamp = {
       ],
     hobbies: ['gaming', 'hiking', 'reading', 'creating'],
     learning: ['MongoDB'],
-    current_project: [`AUTOPSY FILES - REGEX Gist`],
-    recent_project: [`STROKE OF LUCK - CYOA game`],
+    current_project: [`SERIAL CHEER - MongoDB Social Network API`],
+    recent_project: [`AUTOPSY FILES - REGEX Tutorial gist`],
     2023 Goals: [`create 20+ projects and learn 5 new technologies`],
 };
 ```
@@ -54,29 +54,23 @@ const christiecamp = {
 ### ![stats](./gremlicious/2.png)
 
 ##### STREAK STATS 🤖
-
 ![gitHub streak](https://streak-stats.demolab.com/?user=christiecamp&theme=synthwave)
 
 ##### PROFILE STATS 👤
-
 ![gitHub stats](https://github-readme-stats.vercel.app/api?username=christiecamp&show_icons=true&theme=synthwave) 
-
 ![languages](https://github-readme-stats.vercel.app/api/top-langs?username=christiecamp&show_icons=true&locale=en&layout=compact&theme=synthwave)
 
 ##### CONTRIBUTION STATS 👥
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=christiecamp&theme=synthwave)
+<br>
 
-#
-#
+
+##
 <br>
 
 ![banner](./gremlicious/attack.png)
 
-<br>
-<!-- ![Snake animation](https://github.com/christiecamp/christiecamp/blob/output/github-contribution-grid-snake.svg) -->
-
-#
-#
+##
 
 ### ![tools](./gremlicious/3.png)
 

@@ -26,11 +26,11 @@
 
 ```javascript
 const christiecamp = {
-     location: Richmond, VA,
+     location: 'Richmond VA',
      education: 
       [
         'B.F.A in Photography & Film',
-        'Full-Stack Web Development Bootcamp',
+        'Full-Stack Web Dev Bootcamp',
       ],
      interests: 
       [
@@ -39,13 +39,18 @@ const christiecamp = {
         'Web Development', 
         'UI/UX', 
         'Game Development', 
-        'DevOps',
+        'DevOps'
       ],
     hobbies: ['gaming', 'hiking', 'reading', 'creating'],
-    learning: ['MongoDB'],
-    current_project: [`SERIAL CHEER - MongoDB Social Network API`],
-    recent_project: [`AUTOPSY FILES - REGEX Tutorial gist`],
-    2023 Goals: [`create 20+ projects and learn 5 new technologies`],
+    learning: ['PWA'],
+    current_project: [`ARID JUNGLE - MongoDB Social Network API`],
+    recent_project: [`SERIAL SOCIAL - MongoDB Social Network API`],
+    2023: 
+    [
+      'created/branded 20 projects',
+      'learned 5 new technologies'
+    ],
+    2024 Goals: ['4 new languages - Python, C & C++, Ruby']
 };
 ```
 
@@ -58,19 +63,19 @@ const christiecamp = {
 
 ##### PROFILE STATS 👤
 ![gitHub stats](https://github-readme-stats.vercel.app/api?username=christiecamp&show_icons=true&theme=synthwave) 
+
 ![languages](https://github-readme-stats.vercel.app/api/top-langs?username=christiecamp&show_icons=true&locale=en&layout=compact&theme=synthwave)
 
 ##### CONTRIBUTION STATS 👥
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=christiecamp&theme=synthwave)
 <br>
 
-
-##
+#
 <br>
 
 ![banner](./gremlicious/attack.png)
 
-##
+
 
 ### ![tools](./gremlicious/3.png)
 

@@ -46,10 +46,10 @@ const christiecamp = {
     current_project: [`ARID JUNGLE - PWA Text Editor`],
     recent_project: [`SERIAL SOCIAL - MongoDB Social Network API`],
     2023: 
-    [
-      'created/branded 20 projects',
-      'learned 5 new technologies'
-    ],
+      [
+        'created/branded 20 projects',
+        'learned 5 new technologies'
+      ],
     2024 Goals: ['4 new languages - Python, C & C++, Ruby']
 };
 ```

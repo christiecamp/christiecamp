@@ -43,7 +43,7 @@ const christiecamp = {
       ],
     hobbies: ['gaming', 'hiking', 'reading', 'creating'],
     learning: ['PWA'],
-    current_project: [`ARID JUNGLE - MongoDB Social Network API`],
+    current_project: [`ARID JUNGLE - PWA Text Editor`],
     recent_project: [`SERIAL SOCIAL - MongoDB Social Network API`],
     2023: 
     [

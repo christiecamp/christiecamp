@@ -42,7 +42,7 @@ const christiecamp = {
         'DevOps'
       ],
     hobbies: ['gaming', 'hiking', 'reading', 'creating'],
-    learning: ['PWA'],
+    learning: ['React'],
     current_project: [`ARID JUNGLE - PWA Text Editor`],
     recent_project: [`SERIAL SOCIAL - MongoDB Social Network API`],
     2023: 
@@ -86,8 +86,7 @@ const christiecamp = {
 ![html](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
-![node.js](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white)
 ![sql](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
 ![svgxml](https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
@@ -98,8 +97,17 @@ const christiecamp = {
 ##### FRAMEWORKS 🧮
 
 ![bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)
-![express.js](https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white)
-![react](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB)
+![bulma](https://img.shields.io/badge/bulma-00D0B1.svg?&logo=bulma&logoColor=white)
+![express](https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white)
+![insomnia](https://img.shields.io/badge/Insomnia-black?style&logo=insomnia&logoColor=5849BE)
+![jquery](https://img.shields.io/badge/jquery-%230769AD.svg?style&logo=jquery&logoColor=white)
+![npm](https://img.shields.io/badge/NPM-%23CB3837.svg?&logo=npm&logoColor=white)
+![node](https://img.shields.io/badge/Node.js-6DA55F.svg?&logo=node.js&logoColor=white)
+![react](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=white)
+![tailwindcss](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&logo=tailwind-css&logoColor=white)
+![vite](https://img.shields.io/badge/Vite-%23646CFF.svg?&logo=vite&logoColor=white)
+![vue](https://img.shields.io/badge/Vue.js-%2335495e.svg?&logo=vuedotjs&logoColor=%234FC08D)
+![webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?&logo=webpack&logoColor=black)
 
 <!-- databases -->
 
@@ -108,7 +116,9 @@ const christiecamp = {
 ![github pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)
+![mongoose](https://img.shields.io/badge/Mongoose-20232a.svg?logo=mongoose&logoColor=%2361DAFB)
 ![mysql](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)
+![sequelize](https://img.shields.io/badge/Sequelize-52B0E7?&logo=Sequelize&logoColor=white)
 ![render](https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white)
 
 

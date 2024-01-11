@@ -99,7 +99,7 @@ const christiecamp = {
 ![bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)
 ![bulma](https://img.shields.io/badge/bulma-00D0B1.svg?&logo=bulma&logoColor=white)
 ![express](https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white)
-![insomnia](https://img.shields.io/badge/Insomnia-black?style&logo=insomnia&logoColor=5849BE)
+![insomnia](https://img.shields.io/badge/Insomnia-black?&logo=insomnia&logoColor=5849BE)
 ![jquery](https://img.shields.io/badge/jquery-%230769AD.svg?style&logo=jquery&logoColor=white)
 ![npm](https://img.shields.io/badge/NPM-%23CB3837.svg?&logo=npm&logoColor=white)
 ![node](https://img.shields.io/badge/Node.js-6DA55F.svg?&logo=node.js&logoColor=white)
@@ -131,6 +131,10 @@ const christiecamp = {
 ![discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white)
 
 
+<!-- testing -->
+
+##### TESTING 🔬
+![jest](https://img.shields.io/badge/-Jest-%23C21325?&logo=jest&logoColor=white)
 #
 
 <p align="center">

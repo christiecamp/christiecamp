@@ -68,14 +68,10 @@ const christiecamp = {
 
 ##### CONTRIBUTION STATS 👥
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=christiecamp&theme=synthwave)
-<br>
 
 #
-<br>
 
 ![banner](./gremlicious/attack.png)
-
-
 
 ### ![tools](./gremlicious/3.png)
 
@@ -97,14 +93,14 @@ const christiecamp = {
 ##### FRAMEWORKS 🧮
 
 ![bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)
-![bulma](https://img.shields.io/badge/bulma-00D0B1.svg?&logo=bulma&logoColor=white)
+![bulma](https://img.shields.io/badge/Bulma-00D0B1.svg?&logo=bulma&logoColor=white)
 ![express](https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white)
 ![insomnia](https://img.shields.io/badge/Insomnia-black?&logo=insomnia&logoColor=5849BE)
-![jquery](https://img.shields.io/badge/jquery-%230769AD.svg?style&logo=jquery&logoColor=white)
+![jquery](https://img.shields.io/badge/jQuery-%230769AD.svg?style&logo=jquery&logoColor=white)
 ![npm](https://img.shields.io/badge/NPM-%23CB3837.svg?&logo=npm&logoColor=white)
 ![node](https://img.shields.io/badge/Node.js-6DA55F.svg?&logo=node.js&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=white)
-![tailwindcss](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&logo=tailwind-css&logoColor=white)
+![tailwindcss](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?&logo=tailwind-css&logoColor=white)
 ![vite](https://img.shields.io/badge/Vite-%23646CFF.svg?&logo=vite&logoColor=white)
 ![vue](https://img.shields.io/badge/Vue.js-%2335495e.svg?&logo=vuedotjs&logoColor=%234FC08D)
 ![webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?&logo=webpack&logoColor=black)
@@ -113,14 +109,20 @@ const christiecamp = {
 
 ##### DATABASES 📈
 
-![github pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white)
-![heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)
 ![mongoose](https://img.shields.io/badge/Mongoose-20232a.svg?logo=mongoose&logoColor=%2361DAFB)
 ![mysql](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)
 ![sequelize](https://img.shields.io/badge/Sequelize-52B0E7?&logo=Sequelize&logoColor=white)
-![render](https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white)
 
+
+
+<!-- hosting -->
+
+##### HOSTING 💭
+![github pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white)
+![heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white)
+![netlify](https://img.shields.io/badge/Netlify-00C7B7?&logo=netlify&logoColor=white)
+![render](https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white)
 
 <!-- software -->
 

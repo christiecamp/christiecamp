@@ -42,9 +42,9 @@ const christiecamp = {
         'DevOps'
       ],
     hobbies: ['gaming', 'hiking', 'reading', 'creating'],
-    learning: ['React'],
-    current_project: [`ARID JUNGLE - PWA Text Editor`],
-    recent_project: [`SERIAL SOCIAL - MongoDB Social Network API`],
+    learning: ['Apollo Server'],
+    current_project: [`GREMLIN LAND - React Portfolio`],
+    recent_project: [`AVID JUNGLE - PWA Text Editor`],
     2023: 
       [
         'created/branded 20 projects',
@@ -95,7 +95,6 @@ const christiecamp = {
 ![bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)
 ![bulma](https://img.shields.io/badge/Bulma-00D0B1.svg?&logo=bulma&logoColor=white)
 ![express](https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white)
-![insomnia](https://img.shields.io/badge/Insomnia-black?&logo=insomnia&logoColor=5849BE)
 ![jquery](https://img.shields.io/badge/jQuery-%230769AD.svg?style&logo=jquery&logoColor=white)
 ![npm](https://img.shields.io/badge/NPM-%23CB3837.svg?&logo=npm&logoColor=white)
 ![node](https://img.shields.io/badge/Node.js-6DA55F.svg?&logo=node.js&logoColor=white)
@@ -130,12 +129,12 @@ const christiecamp = {
 
 ![adobe](https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white)
 ![visual studio code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
-![discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white)
 
 
 <!-- testing -->
 
 ##### TESTING 🔬
+![insomnia](https://img.shields.io/badge/Insomnia-black?&logo=insomnia&logoColor=5849BE)
 ![jest](https://img.shields.io/badge/-Jest-%23C21325?&logo=jest&logoColor=white)
 #
 

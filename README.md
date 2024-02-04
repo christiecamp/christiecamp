@@ -45,11 +45,11 @@ const christiecamp = {
     learning: ['Redux'],
     current_projects: 
     [
-      'GREMLIN LAND - React Portfolio',
-      'ENCHANTED FORAGE - MERN Stack App w/ GraphQL',
-      'TINY TRINKETS - Redux Store',
+      `GREMLIN LAND - React Portfolio`,
+      `TINY TRINKETS - Redux Store`,
+      `WRECK'D TREASURE - MERN STACK APP`,
       ],
-    recent_project: ['AVID JUNGLE - PWA Text Editor'],
+    recent_project: ['ENCHANTED FORAGE - MERN Stack App w/ GraphQL'],
     2023: 
       [
         'created/branded 20 projects',

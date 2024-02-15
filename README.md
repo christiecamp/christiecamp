@@ -42,14 +42,12 @@ const christiecamp = {
         'DevOps'
       ],
     hobbies: ['gaming', 'hiking', 'reading', 'creating'],
-    learning: ['Redux'],
-    current_projects: 
-    [
-      `GREMLIN LAND - React Portfolio`,
+    learning: ['Python'],
+    current_projects:`GREMLIN LAND - React Portfolio`,
+    recent_project: [
       `TINY TRINKETS - Redux Store`,
-      `WRECK'D TREASURE - MERN STACK APP`,
+      `WRECK'D TREASURE - MERN STACK APP`
       ],
-    recent_project: ['ENCHANTED FORAGE - MERN Stack App w/ GraphQL'],
     2023: 
       [
         'created/branded 20 projects',

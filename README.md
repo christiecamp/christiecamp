@@ -43,10 +43,15 @@ const christiecamp = {
       ],
     hobbies: ['gaming', 'hiking', 'reading', 'creating'],
     learning: 'Python',
-    current_projects:`GREMLIN LAND - React Portfolio`,
-    recent_project: [
-      `TINY TRINKETS - Redux Store`,
-      `WRECK'D TREASURE - MERN STACK APP`
+    current_projects: 
+      [
+        'GREMLIN LAND - React Portfolio',
+        'SNAKE FEST - Mini Pygame'
+      ]
+    recent_project: 
+      [ 
+        'TINY TRINKETS - Redux Store',
+        `WRECK'D TREASURE - MERN STACK APP`
       ],
     2023: 
       [

@@ -71,6 +71,7 @@ const christiecamp = {
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=christiecamp&theme=synthwave)
 
 #
+![banner](./gremlicious/attack.png)
 
 
 ### ![tools](./gremlicious/3.png)
@@ -138,8 +139,6 @@ const christiecamp = {
 ![insomnia](https://img.shields.io/badge/Insomnia-black?&logo=insomnia&logoColor=5849BE)
 ![jest](https://img.shields.io/badge/-Jest-%23C21325?&logo=jest&logoColor=white)
 
-#
-![banner](./gremlicious/attack.png)
 
 #
 

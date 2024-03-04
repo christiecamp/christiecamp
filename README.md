@@ -48,11 +48,10 @@ const christiecamp = {
         'SNAKE FEST - Mini Pygame'
       ],
     recent_project: 'TINY TRINKETS - Redux Store',
+    learning: 'Python',
 
     2023: 'created/branded 20 projects & grasped 5 new technologies',
     2024 Goals: '4 new languages - Python, C, C++, Ruby'
-
-    currently_learning: 'Python'
 };
 ```
 
@@ -73,7 +72,6 @@ const christiecamp = {
 
 #
 
-![banner](./gremlicious/attack.png)
 
 ### ![tools](./gremlicious/3.png)
 
@@ -139,6 +137,10 @@ const christiecamp = {
 ##### TESTING 🔬
 ![insomnia](https://img.shields.io/badge/Insomnia-black?&logo=insomnia&logoColor=5849BE)
 ![jest](https://img.shields.io/badge/-Jest-%23C21325?&logo=jest&logoColor=white)
+
+#
+![banner](./gremlicious/attack.png)
+
 #
 
 <p align="center">

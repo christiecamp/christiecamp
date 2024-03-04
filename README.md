@@ -42,23 +42,17 @@ const christiecamp = {
         'DevOps'
       ],
     hobbies: ['gaming', 'hiking', 'reading', 'creating'],
-    learning: 'Python',
     current_projects: 
       [
         'GREMLIN LAND - React Portfolio',
         'SNAKE FEST - Mini Pygame'
-      ]
-    recent_project: 
-      [ 
-        'TINY TRINKETS - Redux Store',
-        `WRECK'D TREASURE - MERN STACK APP`
       ],
-    2023: 
-      [
-        'created/branded 20 projects',
-        'learned 5 new technologies'
-      ],
-    2024 Goals: '4 new languages - Python, C & C++, Ruby'
+    recent_project: 'TINY TRINKETS - Redux Store',
+
+    2023: 'created/branded 20 projects & grasped 5 new technologies',
+    2024 Goals: '4 new languages - Python, C, C++, Ruby'
+
+    currently_learning: 'Python'
 };
 ```
 

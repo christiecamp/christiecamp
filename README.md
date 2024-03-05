@@ -20,6 +20,7 @@
   <img alt="views" src="https://komarev.com/ghpvc/?username=christiecamp&style=flat-square&color=blueviolet" >
 </p>
 
+#
 
 ### ![about](./gremlicious/1.png)
 
@@ -48,11 +49,12 @@ const christiecamp = {
       ],
     recent_project: 'TINY TRINKETS - Redux Store',
     learning: 'Python',
-    
+
     2023: 'created/branded 20 projects & grasped 5 new technologies',
     2024 Goals: '4 new languages - Python, C, C++, Ruby'
 };
 ```
+#
 
 ### ![stats](./gremlicious/2.png)
 
@@ -67,8 +69,15 @@ const christiecamp = {
 ##### CONTRIBUTION STATS 👥
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=christiecamp&theme=synthwave)
 
-
+#
+#
+#
+![banner](./gremlicious/attack.png)
+#
+#
+#
 ### ![tools](./gremlicious/3.png)
+
 
 <!-- languages -->
 

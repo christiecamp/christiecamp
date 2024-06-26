@@ -27,11 +27,6 @@
 ```javascript
 const christiecamp = {
      location: 'Richmond VA',
-     education: 
-      [
-        'BFA Photography & Film',
-        'Full-Stack Web Dev Bootcamp',
-      ],
      interests: 
       [
         'Graphic Design', 
@@ -41,7 +36,13 @@ const christiecamp = {
         'Game Development', 
         'DevOps'
       ],
-    hobbies: ['gaming', 'hiking', 'reading', 'creating'],
+    hobbies: 
+      [
+        'gaming', 
+        'hiking', 
+        'reading', 
+        'creating'
+      ],
     current_projects: 'SNAKE FEST - Mini Pygame',
     recent_project: 'TINY TRINKETS - Redux Store',
     learning: 'Python',

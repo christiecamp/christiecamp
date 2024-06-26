@@ -42,15 +42,11 @@ const christiecamp = {
         'DevOps'
       ],
     hobbies: ['gaming', 'hiking', 'reading', 'creating'],
-    current_projects: 
-      [
-        'GREMLIN LAND - React Portfolio',
-        'SNAKE FEST - Mini Pygame'
-      ],
+    current_projects: 'SNAKE FEST - Mini Pygame',
     recent_project: 'TINY TRINKETS - Redux Store',
     learning: 'Python',
 
-    2023: 'created/branded 20 projects & grasped 5 new technologies',
+    2023: 'created/branded 20 projects & learned 5 new technologies',
     2024 Goals: '4 new languages - Python, C, C++, Ruby'
 };
 ```
@@ -71,9 +67,7 @@ const christiecamp = {
 
 #
 #
-#
 ![banner](./gremlicious/attack.png)
-#
 #
 #
 ### ![tools](./gremlicious/3.png)
